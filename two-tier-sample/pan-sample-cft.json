@@ -27,7 +27,7 @@
         "eu-west-2"      :  { "AMI": "ami-3c170658"},
         "sa-east-1"      :  { "AMI": "ami-15651279"},
         "us-east-1"      :  { "AMI": "ami-7dcb9906"},
-        "us-east-2"      :  { "AMI": "ami-f1200094"},
+        "us-east-2"      :  { "AMI": "ami-4472613e.4"},
         "ca-central-1"   :  { "AMI": "ami-0f08b76b"},
         "ap-south-1"     :  { "AMI": "ami-1ffc8470"}
     },
